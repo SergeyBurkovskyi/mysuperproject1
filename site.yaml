@@ -1,4 +1,0 @@
-cloneHtdocsFromGit:
-    enabled : true
-    repository: https://github.com/SergeyBurkovskyi/mysuperproject2.git
-    branch: main
